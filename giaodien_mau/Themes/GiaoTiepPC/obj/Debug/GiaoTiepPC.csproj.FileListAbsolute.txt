@@ -1,0 +1,30 @@
+C:\Users\Admin\source\repos\GiaoTiepPC\bin\Debug\GiaoTiepPC.exe.config
+C:\Users\Admin\source\repos\GiaoTiepPC\bin\Debug\GiaoTiepPC.exe
+C:\Users\Admin\source\repos\GiaoTiepPC\bin\Debug\GiaoTiepPC.pdb
+C:\Users\Admin\source\repos\GiaoTiepPC\obj\Debug\GiaoTiepPC.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\GiaoTiepPC\obj\Debug\GiaoTiepPC.window.resources
+C:\Users\Admin\source\repos\GiaoTiepPC\obj\Debug\GiaoTiepPC.Properties.Resources.resources
+C:\Users\Admin\source\repos\GiaoTiepPC\obj\Debug\GiaoTiepPC.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\GiaoTiepPC\obj\Debug\GiaoTiepPC.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\GiaoTiepPC\obj\Debug\GiaoTiepPC.exe
+C:\Users\Admin\source\repos\GiaoTiepPC\obj\Debug\GiaoTiepPC.pdb
+E:\giaodien_mau\Product-Sorting-System-based-on-Colour-Sensor\GiaoTiepPC\bin\Debug\GiaoTiepPC.exe.config
+E:\giaodien_mau\Product-Sorting-System-based-on-Colour-Sensor\GiaoTiepPC\obj\Debug\GiaoTiepPC.exe
+E:\giaodien_mau\Product-Sorting-System-based-on-Colour-Sensor\GiaoTiepPC\obj\Debug\GiaoTiepPC.pdb
+E:\giaodien_mau\Product-Sorting-System-based-on-Colour-Sensor\GiaoTiepPC\bin\Debug\GiaoTiepPC.exe
+E:\giaodien_mau\Product-Sorting-System-based-on-Colour-Sensor\GiaoTiepPC\bin\Debug\GiaoTiepPC.pdb
+E:\giaodien_mau\Product-Sorting-System-based-on-Colour-Sensor\GiaoTiepPC\obj\Debug\GiaoTiepPC.csprojResolveAssemblyReference.cache
+E:\giaodien_mau\Product-Sorting-System-based-on-Colour-Sensor\GiaoTiepPC\obj\Debug\GiaoTiepPC.Properties.Resources.resources
+E:\giaodien_mau\Product-Sorting-System-based-on-Colour-Sensor\GiaoTiepPC\obj\Debug\GiaoTiepPC.csproj.GenerateResource.Cache
+E:\giaodien_mau\Product-Sorting-System-based-on-Colour-Sensor\GiaoTiepPC\bin\Debug\EPPlus.xml
+E:\giaodien_mau\Product-Sorting-System-based-on-Colour-Sensor\GiaoTiepPC\obj\Debug\GiaoTiepPC.Themes.resources
+C:\Users\nopro\OneDrive\Máy tính\git\giaodien_mau\Themes\GiaoTiepPC\bin\Debug\GiaoTiepPC.exe.config
+C:\Users\nopro\OneDrive\Máy tính\git\giaodien_mau\Themes\GiaoTiepPC\obj\Debug\GiaoTiepPC.exe
+C:\Users\nopro\OneDrive\Máy tính\git\giaodien_mau\Themes\GiaoTiepPC\obj\Debug\GiaoTiepPC.pdb
+C:\Users\nopro\OneDrive\Máy tính\git\giaodien_mau\Themes\GiaoTiepPC\bin\Debug\GiaoTiepPC.exe
+C:\Users\nopro\OneDrive\Máy tính\git\giaodien_mau\Themes\GiaoTiepPC\bin\Debug\GiaoTiepPC.pdb
+C:\Users\nopro\OneDrive\Máy tính\git\giaodien_mau\Themes\GiaoTiepPC\bin\Debug\EPPlus.xml
+C:\Users\nopro\OneDrive\Máy tính\git\giaodien_mau\Themes\GiaoTiepPC\obj\Debug\GiaoTiepPC.csprojResolveAssemblyReference.cache
+C:\Users\nopro\OneDrive\Máy tính\git\giaodien_mau\Themes\GiaoTiepPC\obj\Debug\GiaoTiepPC.Themes.resources
+C:\Users\nopro\OneDrive\Máy tính\git\giaodien_mau\Themes\GiaoTiepPC\obj\Debug\GiaoTiepPC.Properties.Resources.resources
+C:\Users\nopro\OneDrive\Máy tính\git\giaodien_mau\Themes\GiaoTiepPC\obj\Debug\GiaoTiepPC.csproj.GenerateResource.Cache

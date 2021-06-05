@@ -1,0 +1,113 @@
+Change Component Comment : Designator=C1_A? Old Comment=Cap New Comment=104
+Added Component: Designator=D?(LED-0 5mm BLUE)
+Added Component: Designator=DS3231(HDR1X6)
+Added Component: Designator=I2C(HED4)
+Added Component: Designator=P?(Header 4)
+Added Component: Designator=R?(R1W)
+Added Component: Designator=RFID1(HED4)
+Added Component: Designator=RFID2(HED3)
+Added Component: Designator=RFID3(HED3)
+Added Component: Designator=RFID4(HED4)
+Added Component: Designator=SENSOR1(HED3)
+Added Component: Designator=SENSOR2(HED3)
+Added Component: Designator=SERVO1(HED3)
+Added Component: Designator=SERVO2(HED3)
+Added Component: Designator=UART(HED4)
+Added Pin To Net: NetName=NetP1_1 Pin=DS3231-6
+Added Pin To Net: NetName=NetP1_1 Pin=I2C-4
+Added Pin To Net: NetName=NetP1_1 Pin=P?-3
+Added Pin To Net: NetName=NetP1_1 Pin=P?-4
+Added Pin To Net: NetName=NetP1_2 Pin=RFID2-1
+Added Pin To Net: NetName=NetP3_5 Pin=RFID2-2
+Added Pin To Net: NetName=NetP1_1 Pin=RFID2-3
+Added Pin To Net: NetName=NetP1_2 Pin=RFID3-1
+Added Pin To Net: NetName=NetP3_5 Pin=RFID3-2
+Added Pin To Net: NetName=NetP1_1 Pin=RFID3-3
+Added Pin To Net: NetName=NetP1_1 Pin=SENSOR1-2
+Added Pin To Net: NetName=NetP1_1 Pin=SENSOR2-2
+Added Pin To Net: NetName=NetP1_1 Pin=SERVO1-1
+Added Pin To Net: NetName=NetP1_1 Pin=SERVO2-1
+Added Pin To Net: NetName=NetP1_2 Pin=UART-3
+Added Pin To Net: NetName=NetP1_1 Pin=UART-4
+Change Net Name : Old Net Name=NetP1_1 New Net Name=NetDS3231_6
+Added Pin To Net: NetName=5V Pin=C1_A?-2
+Added Pin To Net: NetName=5V Pin=C?-1
+Added Pin To Net: NetName=5V Pin=R?-1
+Added Pin To Net: NetName=5V Pin=U?-3
+Added Net: Name=5V
+Added Pin To Net: NetName=GND Pin=C1_A?-1
+Added Pin To Net: NetName=GND Pin=C1_A?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=GND Pin=JDC-2
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_A?_2 Pin=C1_A?-2
+Added Pin To Net: NetName=NetC1_A?_2 Pin=C?-1
+Added Pin To Net: NetName=NetC1_A?_2 Pin=JDC-1
+Added Pin To Net: NetName=NetC1_A?_2 Pin=U?-1
+Added Net: Name=NetC1_A?_2
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=R?-2
+Added Net: Name=NetD?_1
+Added Pin To Net: NetName=NetDS3231_3 Pin=DS3231-3
+Added Pin To Net: NetName=NetDS3231_3 Pin=I2C-2
+Added Net: Name=NetDS3231_3
+Added Pin To Net: NetName=NetDS3231_4 Pin=DS3231-4
+Added Pin To Net: NetName=NetDS3231_4 Pin=I2C-1
+Added Net: Name=NetDS3231_4
+Added Pin To Net: NetName=NetDS3231_5 Pin=DS3231-5
+Added Pin To Net: NetName=NetDS3231_5 Pin=I2C-3
+Added Pin To Net: NetName=NetDS3231_5 Pin=P?-1
+Added Pin To Net: NetName=NetDS3231_5 Pin=P?-2
+Added Pin To Net: NetName=NetDS3231_5 Pin=SENSOR1-1
+Added Pin To Net: NetName=NetDS3231_5 Pin=SENSOR2-1
+Added Pin To Net: NetName=NetDS3231_5 Pin=SERVO1-2
+Added Pin To Net: NetName=NetDS3231_5 Pin=SERVO2-2
+Added Net: Name=NetDS3231_5
+Added Pin To Net: NetName=NetRFID1_1 Pin=RFID1-1
+Added Net: Name=NetRFID1_1
+Added Pin To Net: NetName=NetRFID1_2 Pin=RFID1-2
+Added Net: Name=NetRFID1_2
+Added Pin To Net: NetName=NetRFID1_3 Pin=RFID1-3
+Added Net: Name=NetRFID1_3
+Added Pin To Net: NetName=NetRFID1_4 Pin=RFID1-4
+Added Net: Name=NetRFID1_4
+Added Pin To Net: NetName=NetRFID4_1 Pin=RFID4-1
+Added Net: Name=NetRFID4_1
+Added Pin To Net: NetName=NetRFID4_2 Pin=RFID4-2
+Added Net: Name=NetRFID4_2
+Added Pin To Net: NetName=NetRFID4_3 Pin=RFID4-3
+Added Net: Name=NetRFID4_3
+Added Pin To Net: NetName=NetRFID4_4 Pin=RFID4-4
+Added Net: Name=NetRFID4_4
+Added Pin To Net: NetName=NetSENSOR1_3 Pin=SENSOR1-3
+Added Net: Name=NetSENSOR1_3
+Added Pin To Net: NetName=NetSENSOR2_3 Pin=SENSOR2-3
+Added Net: Name=NetSENSOR2_3
+Added Pin To Net: NetName=NetSERVO1_3 Pin=SERVO1-3
+Added Net: Name=NetSERVO1_3
+Added Pin To Net: NetName=NetSERVO2_3 Pin=SERVO2-3
+Added Net: Name=NetSERVO2_3
+Added Pin To Net: NetName=NetUART_1 Pin=UART-1
+Added Net: Name=NetUART_1
+Added Pin To Net: NetName=NetUART_2 Pin=UART-2
+Added Net: Name=NetUART_2
+Added Member To Class: ClassName=Schematic Member=Component C1_A? Cap
+Added Member To Class: ClassName=Schematic Member=Component C? Cap Pol
+Added Member To Class: ClassName=Schematic Member=Component D? LED
+Added Member To Class: ClassName=Schematic Member=Component DS3231 Header 6_1
+Added Member To Class: ClassName=Schematic Member=Component I2C Header 4
+Added Member To Class: ClassName=Schematic Member=Component P? Header 4
+Added Member To Class: ClassName=Schematic Member=Component R? 100
+Added Member To Class: ClassName=Schematic Member=Component RFID1 Header 4
+Added Member To Class: ClassName=Schematic Member=Component RFID2 Header 3
+Added Member To Class: ClassName=Schematic Member=Component RFID3 Header 3
+Added Member To Class: ClassName=Schematic Member=Component RFID4 Header 4
+Added Member To Class: ClassName=Schematic Member=Component SENSOR1 Header 3
+Added Member To Class: ClassName=Schematic Member=Component SENSOR2 Header 3
+Added Member To Class: ClassName=Schematic Member=Component SERVO1 Header 3
+Added Member To Class: ClassName=Schematic Member=Component SERVO2 Header 3
+Added Member To Class: ClassName=Schematic Member=Component UART Header 4
+Added Room: Name=Schematic

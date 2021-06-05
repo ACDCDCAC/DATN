@@ -1,0 +1,45 @@
+Removed Member From Class: ClassName=Schematic Member=P?
+Change Component Designator: OldDesignator=C1_A? NewDesignator=C2
+Change Component Designator: OldDesignator=C1_A? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=I2C NewDesignator=I1
+Change Component Designator: OldDesignator=JDC NewDesignator=JDC1
+Change Component Designator: OldDesignator=P1 NewDesignator=P4
+Change Component Designator: OldDesignator=P3 NewDesignator=P5
+Change Component Designator: OldDesignator=P4 NewDesignator=P3
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=RFID2 NewDesignator=RFID4
+Change Component Designator: OldDesignator=RFID3 NewDesignator=RFID2
+Change Component Designator: OldDesignator=RFID4 NewDesignator=RFID3
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=UART NewDesignator=UART1
+Change Net Name : Old Net Name=NetC1_A?_2 New Net Name=NetC1_1
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD1_1
+Change Net Name : Old Net Name=NetP1_2 New Net Name=NetP2_2
+Change Net Name : Old Net Name=NetP1_3 New Net Name=NetP2_3
+Change Net Name : Old Net Name=NetP1_4 New Net Name=NetP2_4
+Change Net Name : Old Net Name=NetP1_5 New Net Name=NetP2_5
+Change Net Name : Old Net Name=NetP1_6 New Net Name=NetP2_6
+Change Net Name : Old Net Name=NetP1_7 New Net Name=NetP2_7
+Change Net Name : Old Net Name=NetP1_8 New Net Name=NetP2_8
+Change Net Name : Old Net Name=NetP1_9 New Net Name=NetP2_9
+Change Net Name : Old Net Name=NetP1_10 New Net Name=NetP2_10
+Change Net Name : Old Net Name=NetP1_11 New Net Name=NetP2_11
+Change Net Name : Old Net Name=NetP1_12 New Net Name=NetP2_12
+Change Net Name : Old Net Name=NetP1_13 New Net Name=NetP2_13
+Change Net Name : Old Net Name=NetP1_14 New Net Name=NetP2_14
+Change Net Name : Old Net Name=NetP1_15 New Net Name=NetP2_15
+Change Net Name : Old Net Name=NetP1_16 New Net Name=NetP2_16
+Change Net Name : Old Net Name=NetP1_17 New Net Name=NetP2_17
+Change Net Name : Old Net Name=NetRFID4_1 New Net Name=NetRFID3_1
+Change Net Name : Old Net Name=NetRFID4_2 New Net Name=NetRFID3_2
+Change Net Name : Old Net Name=NetRFID4_3 New Net Name=NetRFID3_3
+Change Net Name : Old Net Name=NetRFID4_4 New Net Name=NetRFID3_4
+Change Net Name : Old Net Name=NetUART_1 New Net Name=NetUART1_1
+Change Net Name : Old Net Name=NetUART_2 New Net Name=NetUART1_2
+Added Member To Class: ClassName=Schematic Member=Component C3 Cap Pol
+Added Member To Class: ClassName=Schematic Member=Component C4 104
+Added Member To Class: ClassName=Schematic Member=Component P5 Header 17

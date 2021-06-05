@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetDS3231_3 Pin=DS3231-3
+Removed Pin From Net: NetName=NetDS3231_4 Pin=DS3231-4
+Removed Pin From Net: NetName=5V Pin=DS3231-5
+Removed Pin From Net: NetName=GND Pin=DS3231-6
+Added Pin To Net: NetName=GND Pin=DS3231-3
+Added Pin To Net: NetName=5V Pin=DS3231-4
+Added Pin To Net: NetName=NetDS3231_4 Pin=DS3231-5
+Added Pin To Net: NetName=NetDS3231_3 Pin=DS3231-6
+Change Net Name : Old Net Name=NetDS3231_3 New Net Name=NetDS3231_6
+Change Net Name : Old Net Name=NetDS3231_4 New Net Name=NetDS3231_5

@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=5V Pin=P1-1
+Removed Pin From Net: NetName=GND Pin=P1-2
+Removed Pin From Net: NetName=5V Pin=P1-3
+Removed Pin From Net: NetName=GND Pin=P1-4
+Removed Pin From Net: NetName=5V Pin=SENSOR2-1
+Removed Pin From Net: NetName=GND Pin=SENSOR2-2
+Removed Pin From Net: NetName=NetP2_7 Pin=SENSOR2-3
+Removed Pin From Net: NetName=NetP2_4 Pin=UART1-1
+Removed Pin From Net: NetName=NetP2_3 Pin=UART1-2
+Removed Pin From Net: NetName=GND Pin=UART1-4
+Removed Member From Class: ClassName=Schematic Member=P1
+Removed Member From Class: ClassName=Schematic Member=SENSOR2
+Removed Member From Class: ClassName=Schematic Member=UART1
+Change Component DesignItemId : Designator=I2C Old DesignItemId=Hed4 New DesignItemId=Header 4 - M
+Change Component Footprint: Designator=I2C Old Footprint=HED4 New Footprint=Medium - Header 4
+Change Component Comment : Designator=I2C Old Comment=Header 4 New Comment=Header 4 - M
+Added Component: Designator=SENSOR IN(Medium - Header 3)
+Added Component: Designator=SENSOR OUT(Medium - Header 3)
+Added Component: Designator=SOURCE(Medium - Header 4)
+Added Component: Designator=UART(Medium - Header 4)
+Added Pin To Net: NetName=5V Pin=SENSOR IN-1
+Added Pin To Net: NetName=GND Pin=SENSOR IN-2
+Added Pin To Net: NetName=NetP3_16 Pin=SENSOR IN-3
+Added Pin To Net: NetName=5V Pin=SENSOR OUT-1
+Added Pin To Net: NetName=GND Pin=SENSOR OUT-2
+Added Pin To Net: NetName=NetP2_7 Pin=SENSOR OUT-3
+Added Pin To Net: NetName=5V Pin=SOURCE-1
+Added Pin To Net: NetName=GND Pin=SOURCE-2
+Added Pin To Net: NetName=5V Pin=SOURCE-3
+Added Pin To Net: NetName=GND Pin=SOURCE-4
+Added Pin To Net: NetName=NetP2_4 Pin=UART-1
+Added Pin To Net: NetName=NetP2_3 Pin=UART-2
+Added Pin To Net: NetName=GND Pin=UART-4
+Added Member To Class: ClassName=Schematic Member=Component SENSOR IN Header 3 - M
+Added Member To Class: ClassName=Schematic Member=Component SENSOR OUT Header 3 - M
+Added Member To Class: ClassName=Schematic Member=Component SOURCE Header 4 - M
+Added Member To Class: ClassName=Schematic Member=Component UART Header 4 - M

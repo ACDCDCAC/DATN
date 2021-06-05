@@ -1,0 +1,8 @@
+Change Component DesignItemId : Designator=R1 Old DesignItemId=R1W New DesignItemId=R1/4W
+Change Component Footprint: Designator=R1 Old Footprint=R1W New Footprint=R1/4W
+Added Component: Designator=DS3231(HDR1X6)
+Added Pin To Net: NetName=GND Pin=DS3231-1
+Added Pin To Net: NetName=5V Pin=DS3231-2
+Added Pin To Net: NetName=NetDS3231_3 Pin=DS3231-3
+Added Pin To Net: NetName=NetDS3231_4 Pin=DS3231-4
+Added Member To Class: ClassName=Schematic Member=Component DS3231 Header 6_1
